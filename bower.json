@@ -1,0 +1,11 @@
+{
+  "name": "designguidelines-assets",
+  "homepage": "https://github.com/hiof/designguidelines-assets",
+  "authors": [
+    "Kenneth Dahlstrøm <kenneth.dahlstrom@hiof.no>"
+  ],
+  "description": "designguidelines-assets plugin",
+  "license": "GNU",
+  "dependencies": {
+  }
+}

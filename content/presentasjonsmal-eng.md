@@ -1,0 +1,13 @@
+---
+title: Presentation template
+author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
+date: 2015-08-20
+relatedasset: presentasjonsmal-eng
+illustration: template-presentasjonsmal-eng.jpg
+position: 3
+category: presentation
+---
+
+Dette er høgskolens presentasjonsverktøy med engelsk logo. Bruk denne malen når du skal presentere noe for et utenlandsk publikum. Presentasjonsmalen åpner med et utvalg slides du kan velge mellom. Du kan slette de du ikke ønsker å bruke i presentasjonen din. Nye innholdssider finner du under «Nytt lysbilde» eller så endrer du oppsettet på siden under «Oppsett».
+
+Feltet der det står «Presentasjonsmal Høgskolen i Østfold», samt bunnteksten «Fornavn Etternavn | Avdelingsnavn», og alle tekstfelter, kan du endre til det du ønsker i din presentasjon. Om du ønsker å ta bort bunntekst på alle slides, eller evt. endre bunnteksten på alle slides til ditt navn og din avdeling/enhet, så gjør du det via: «Sett inn» - «Topptekst og bunntekst» - Endre bunnteksten til det du ønsker – og avslutt med «Bruk på alle».

@@ -1,0 +1,43 @@
+%!Adobe-FontList 1.14
+%Locale:0x414
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Light
+FamilyName:Source Sans Pro
+StyleName:Light
+FullName:Source Sans Pro Light
+MenuName:Source Sans Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\4. Designmal\Designmal 2015\120615-Dokumentmaler v.1\1-HIOF-Dokumentmaler\7.6. Rapport forsidemal\HIOF-template-7.6.Rapport-forsidemal-A\Document fonts\SourceSansPro-Light.ttf
+DataFormat:sfntData
+FileLength:150244
+FileModTime:1407156768
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Semibold
+FamilyName:Source Sans Pro
+StyleName:Semibold
+FullName:Source Sans Pro Semibold
+MenuName:Source Sans Pro Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Y:\4. Designmal\Designmal 2015\120615-Dokumentmaler v.1\1-HIOF-Dokumentmaler\7.6. Rapport forsidemal\HIOF-template-7.6.Rapport-forsidemal-A\Document fonts\SourceSansPro-Semibold.ttf
+DataFormat:sfntData
+FileLength:149636
+FileModTime:1407156768
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:100
+%EndFont
+

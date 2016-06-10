@@ -2,7 +2,7 @@
 title: Omslag oppdragsrapport
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-12-7
-relatedasset: omslag-oppdragsrapport
+relatedasset: [omslag-oppdragsrapport-A.indd, omslag-oppdragsrapport-B.indd]
 illustration: template-omslag-oppdragsrapport.jpg
 position: 15
 ---

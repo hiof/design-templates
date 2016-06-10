@@ -2,7 +2,7 @@
 title: Presentation template
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: presentasjonsmal-eng
+relatedasset: [presentasjonsmal-eng.potx]
 illustration: template-presentasjonsmal-eng.jpg
 position: 3
 category: presentation

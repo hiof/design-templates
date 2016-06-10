@@ -2,7 +2,7 @@
 title: Overordnet designmal
 author: Kenneth Dahlstrøm
 date: 2015-10-26
-relatedasset: designmal
+relatedasset: designmal.pdf
 illustration: template-designmal.jpg
 position: 1
 ---

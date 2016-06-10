@@ -2,7 +2,7 @@
 title: Forsidemaler for rapporter
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-12-7
-relatedasset: [rapport-forsidemal-a, rapport-forsidemal-b, rapport-forsidemal-c, rapport-forsidemal-d]
+relatedasset: [rapport-forsidemal-A.indd, rapport-forsidemal-B-indd, rapport-forsidemal-C.docx, rapport-forsidemal-C.indd]
 illustration: template-rapport-forsidemal.jpg
 position: 14
 ---

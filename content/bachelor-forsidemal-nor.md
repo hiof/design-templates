@@ -2,7 +2,7 @@
 title: Forsidemal for bacheloroppgraver
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-09-07
-relatedasset: bachelor-forsidemal-nor
+relatedasset: [bachelor-forsidemal-nor.docx, bachelor-forsidemal-nor.ott, bachelor-forsidemal-nor.pdf]
 illustration: template-bachelor-forsidemal-nor.jpg
 position: 10
 ---

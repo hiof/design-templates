@@ -2,7 +2,7 @@
 title: Bachelorthesis cover page
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-09-07
-relatedasset: bachelor-forsidemal-eng
+relatedasset: [bachelor-forsidemal-eng.docx, bachelor-forsidemal-eng.ott, bachelor-forsidemal-eng.pdf]
 illustration: template-bachelor-forsidemal-eng.jpg
 position: 11
 ---

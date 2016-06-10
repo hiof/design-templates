@@ -2,7 +2,7 @@
 title: Presentasjonsmal
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: presentasjonsmal-nor
+relatedasset: [presentasjonsmal-nor.potx]
 illustration: template-presentasjonsmal-nor.jpg
 position: 2
 category: presentation

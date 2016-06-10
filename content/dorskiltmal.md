@@ -2,7 +2,7 @@
 title: Dørskiltmal
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-12-7
-relatedasset:
+relatedasset: dorskiltmal.doc
 illustration: template-dorskiltmal.jpg
 position: 16
 ---

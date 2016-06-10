@@ -2,7 +2,7 @@
 title: Masterthesis cover page
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: master-forsidemal-eng
+relatedasset: [master-forsidemal-eng.dot, master-forsidemal-eng.ott, master-forsidemal-eng.pdf]
 illustration: template-master-forsidemal-eng.jpg
 position: 13
 ---

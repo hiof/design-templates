@@ -2,7 +2,7 @@
 title: Forsidemal for masteroppgaver
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: master-forsidemal-nor
+relatedasset: [master-forsidemal-nor.dot, master-forsidemal-nor.ott, master-forsidemal-nor.pdf]
 illustration: template-master-forsidemal-nor.jpg
 position: 12
 ---

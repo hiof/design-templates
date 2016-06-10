@@ -2,12 +2,12 @@
 title: E-postsignatur
 author: Kenneth Dahlstrøm
 date: 2015-08-20
-relatedasset: epostsignatur
+relatedasset: [epostsignatur.ott, epostsignatur.pdf]
 illustration: template-epost.jpg
 position: 4
 ---
 
-E-postsignaturen består av følgende tekst satt i primærfontsnittet Source Sans Pro eller sekundærfontsnittet Arial:
+E-postsignaturen består av følgende tekst satt i sekundærfontsnittet Arial:
 
 ```
 Med vennlig hilsen,

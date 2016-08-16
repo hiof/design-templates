@@ -1,8 +1,8 @@
 ---
 title: Dørskiltmal
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
-date: 2015-12-7
-relatedasset: [{"title": "Mal for dørskilt","format": "doc", "version": "v1.0.0", "formathelpertext": "", "file": "dorskiltmal"}]
+date: 2016-08-16
+relatedasset: [{"title": "Mal for dørskilt","format": "doc", "version": "v1.0.1", "formathelpertext": "", "file": "dorskiltmal"}]
 illustration: template-dorskiltmal.jpg
 position: 16
 ---

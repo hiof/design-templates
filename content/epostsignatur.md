@@ -1,13 +1,14 @@
 ---
 title: E-postsignatur
 author: Kenneth Dahlstrøm
-date: 2016-06-10
-relatedasset: [epostsignatur.ott, epostsignatur.pdf]
+date: 2016-06-29
+relatedasset: [{"title": "OpenOffice mal du kan kopiere fra","format": "ott", "version": "v1.0.0", "formathelpertext": "", "file": "epostsignatur"}, {"title": "Word mal du kan kopiere fra","format": "pdf", "version": "v1.0.0", "formathelpertext": "", "file": "epostsignatur"}]
 illustration: template-epost.jpg
 position: 4
 ---
 
 E-postsignaturen består av følgende tekst satt i sekundærfontsnittet Arial:
+
 
 ```
 Med vennlig hilsen,

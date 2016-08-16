@@ -2,7 +2,7 @@
 title: Bachelorthesis cover page
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-09-07
-relatedasset: [bachelor-forsidemal-eng.docx, bachelor-forsidemal-eng.ott, bachelor-forsidemal-eng.pdf]
+relatedasset: [{"title":"Bachelorthesis cover page in Word-format","format": "docx", "version": "v1.0.0", "formathelpertext": "", "file": "bachelor-forsidemal-eng"}, {"title":"Bachelorthesis cover page for OpenOffice","format": "ott", "version": "v1.0.0", "formathelpertext": "", "file": "bachelor-forsidemal-eng"}, {"title":"Bachelorthesis cover page in PDF","format": "pdf", "version": "v1.0.0", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "bachelor-forsidemal-eng"}]
 illustration: template-bachelor-forsidemal-eng.jpg
 position: 11
 ---

@@ -1,11 +1,11 @@
 ---
 title: Brosjyrer
 author: Kenneth Dahlstrøm
-date: 2015-10-20
+date: 2016-06-30
 relatedasset:
-illustration: template-brochure.jpg
+illustration: template-brosjyre.jpg
 position: 30
 category: brochure
 ---
 
-Retningslinjer kommer.
+Brosjyrer utarbeides i samarbeid med Marked- og kommunikasjonsenheten. Ta kontakt på [infoenheten@hiof.no](infoenheten@hiof.no).

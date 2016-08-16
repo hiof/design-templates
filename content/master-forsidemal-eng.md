@@ -2,7 +2,7 @@
 title: Masterthesis cover page
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: [{"title":"masterthesis cover page in Word-format","format": "docx", "formathelpertext": "", "file": "master-forsidemal-eng"}, {"title":"masterthesis cover page for OpenOffice","format": "ott", "formathelpertext": "", "file": "master-forsidemal-eng"}, {"title":"masterthesis cover page in PDF","format": "pdf", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "master-forsidemal-eng"}]
+relatedasset: [{"title":"masterthesis cover page in Word-format","format": "docx", "version": "v1.0.0", "formathelpertext": "", "file": "master-forsidemal-eng"}, {"title":"masterthesis cover page for OpenOffice","format": "ott", "version": "v1.0.0", "formathelpertext": "", "file": "master-forsidemal-eng"}, {"title":"masterthesis cover page in PDF","format": "pdf", "version": "v1.0.0", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "master-forsidemal-eng"}]
 illustration: template-master-forsidemal-eng.jpg
 position: 13
 ---

@@ -2,7 +2,7 @@
 title: Forsidemal for bacheloroppgraver
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-09-07
-relatedasset: [{"title":"Forsidemal for bacheloroppgaver i Word-format","format": "docx", "formathelpertext": "", "file": "bachelor-forsidemal-nor"}, {"title":"Forsidemal for bacheloroppgaver i OpenOffice","format": "ott", "formathelpertext": "", "file": "bachelor-forsidemal-nor"}, {"title":"Forsidemal for bacheloroppgaver i PDF","format": "pdf", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "bachelor-forsidemal-nor"}]
+relatedasset: [{"title":"Forsidemal for bacheloroppgaver i Word-format","format": "docx", "version": "v1.0.0", "formathelpertext": "", "file": "bachelor-forsidemal-nor"}, {"title":"Forsidemal for bacheloroppgaver i OpenOffice","format": "ott", "version": "v1.0.0", "formathelpertext": "", "file": "bachelor-forsidemal-nor"}, {"title":"Forsidemal for bacheloroppgaver i PDF","format": "pdf", "version": "v1.0.0", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "bachelor-forsidemal-nor"}]
 illustration: template-bachelor-forsidemal-nor.jpg
 position: 10
 ---

@@ -2,7 +2,7 @@
 title: Forsidemal for masteroppgaver
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: [{"title":"Forsidemal for masteroppgaver i Word-format","format": "docx", "formathelpertext": "", "file": "master-forsidemal-nor"}, {"title":"Forsidemal for masteroppgaver i OpenOffice","format": "ott", "formathelpertext": "", "file": "master-forsidemal-nor"}, {"title":"Forsidemal for masteroppgaver i PDF","format": "pdf", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "master-forsidemal-nor"}]
+relatedasset: [{"title":"Forsidemal for masteroppgaver i Word-format","format": "docx", "version": "v1.0.0", "formathelpertext": "", "file": "master-forsidemal-nor"}, {"title":"Forsidemal for masteroppgaver i OpenOffice","format": "ott", "version": "v1.0.0", "formathelpertext": "", "file": "master-forsidemal-nor"}, {"title":"Forsidemal for masteroppgaver i PDF","format": "pdf", "version": "v1.0.0", "formathelpertext": "Edit the PDF-template in your editor and merge it in as the frontpage to your paper.", "file": "master-forsidemal-nor"}]
 illustration: template-master-forsidemal-nor.jpg
 position: 12
 ---

@@ -2,7 +2,6 @@
 title: Visittkort
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-12-7
-relatedasset:
 illustration: template-visittkort.jpg
 position: 15
 ---

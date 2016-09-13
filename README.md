@@ -49,5 +49,3 @@ $ bower install
 
 
 ### Roadmap
-
-- [ ] - v1.0.0 - Initial designguidelines-assets

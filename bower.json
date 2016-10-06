@@ -5,7 +5,7 @@
     "Kenneth Lindbeck-Dahlstrøm <kld@hiof.no>"
   ],
   "description": "designguidelines-assets plugin",
-  "license": "GNU",
+  "license": "GPL-3.0",
   "dependencies": {
   }
 }

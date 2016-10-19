@@ -6,4 +6,4 @@ illustration: template-visittkort.jpg
 position: 15
 ---
 
-Visittkort bestilles [via et bestillingsskjema som finnes på ansattes intranett](http://www2.hiof.no/nor/intranett-ansatte/visittkort). Bestillingene samles opp og bestilles foreløpig en gang i halvåret. Visittkort er behovsprøvd, og skal godkjennes av din leder.
+Visittkort bestilles [via et bestillingsskjema som finnes på ansattes intranett](http://www2.hiof.no/nor/intranett-ansatte/visittkort). Visittkort er behovsprøvd, og skal godkjennes av din leder.

@@ -2,7 +2,7 @@
 title: Presentasjonsmal
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: [{"title":"Presentasjonsmal for PowerPoint","format": "potx", "version": "v1.0.1", "formathelpertext": "PowerPoint - presentasjonsmal", "file": "presentasjonsmal-nor"}]
+relatedasset: [{"title":"Presentasjonsmal for PowerPoint","format": "potx", "version": "v1.1.0", "formathelpertext": "PowerPoint - presentasjonsmal", "file": "presentasjonsmal-nor"}]
 illustration: template-presentasjonsmal-nor.jpg
 position: 2
 category: presentation

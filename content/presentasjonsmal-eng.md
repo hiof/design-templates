@@ -2,7 +2,7 @@
 title: Presentation template
 author: Agnes Kristine Øktedalen Olsen Sirland <agnes.k.sirland@hiof.no>
 date: 2015-08-20
-relatedasset: [{"title":"Presentation template for PowerPoint","format": "potx", "version": "v1.0.1", "formathelpertext": "", "file": "presentasjonsmal-eng"}]
+relatedasset: [{"title":"Presentation template for PowerPoint","format": "potx", "version": "v1.1.0", "formathelpertext": "", "file": "presentasjonsmal-eng"}]
 illustration: template-presentasjonsmal-eng.jpg
 position: 3
 category: presentation

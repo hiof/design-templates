@@ -1,10 +1,10 @@
 {
-  "name": "designguidelines-assets",
-  "homepage": "https://github.com/hiof/designguidelines-assets",
+  "name": "design-templates",
+  "homepage": "https://github.com/hiof/design-templates",
   "authors": [
     "Kenneth Lindbeck-Dahlstrøm <kld@hiof.no>"
   ],
-  "description": "designguidelines-assets plugin",
+  "description": "design-templates plugin",
   "license": "GPL-3.0",
   "dependencies": {
   }

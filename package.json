@@ -1,10 +1,10 @@
 {
-  "name": "designguidelines-assets",
-  "version": "1.0.7",
+  "name": "design-templates",
+  "version": "1.1.0",
   "author": "HiØ, Kenneth Lindbeck-Dahlstrøm <kld@hiof.no>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hiof/designguidelines-assets.git"
+    "url": "https://github.com/hiof/design-templates.git"
   },
   "contributors": [
     {

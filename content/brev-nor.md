@@ -1,10 +1,10 @@
 ---
 title: Brevmal norsk
-author: Kenneth Dahlstrøm
-date: 2015-08-20
-relatedasset:
+author: Kenneth Lindbeck-Dahlstrøm
+date: 2018-02-14
+relatedasset: [{"title": "Mal for dørskilt","format": "doc", "version": "v1.1.0", "formathelpertext": "", "file": "brevmal"},{"title": "Mal for dørskilt","format": "ott", "version": "v1.1.0", "formathelpertext": "", "file": "brevmal"}]
 illustration: template-brev-nor.jpg
 position: 21
 ---
 
-Brevmalen er tilgjenglig via [arkivsystemet Public 360](https://hiof.p360.uninett.no/) for arkivverdig informasjon. Hvis du har behov for å sende brev som ikke er arkivverdig ta kontakt med din [nærmeste webansvarlig](http://www2.hiof.no/nor/hogskolen-i-ostfold/utvikling/overordnet-ansvarlige) for brevmal.
+Brevmalen er tilgjengelig via [arkivsystemet Public 360](https://hiof.p360.uninett.no/) for arkivverdig informasjon. Hvis du har behov for å sende brev som **ikke er arkivverdig** last ned malen under.

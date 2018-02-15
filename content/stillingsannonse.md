@@ -1,6 +1,6 @@
 ---
 title: Stillingsannonser
-author: Kenneth Dahlstrøm
+author: Kenneth Lindbeck-Dahlstrøm
 date: 2015-11-10
 illustration: template-stillingsannonse.jpg
 position: 20

@@ -1,6 +1,6 @@
 ---
 title: Brosjyrer
-author: Kenneth Dahlstrøm
+author: Kenneth Lindbeck-Dahlstrøm
 date: 2016-06-30
 relatedasset:
 illustration: template-brosjyre.jpg

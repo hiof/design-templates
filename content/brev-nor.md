@@ -2,7 +2,7 @@
 title: Brevmal norsk
 author: Kenneth Lindbeck-Dahlstrøm
 date: 2018-02-14
-relatedasset: [{"title": "Mal for dørskilt","format": "doc", "version": "v1.1.0", "formathelpertext": "", "file": "brevmal"},{"title": "Mal for dørskilt","format": "ott", "version": "v1.1.0", "formathelpertext": "", "file": "brevmal"}]
+relatedasset: [{"title": "Brevmal","format": "doc", "version": "v1.1.0", "formathelpertext": "", "file": "brevmal"},{"title": "Brevmal","format": "ott", "version": "v1.1.0", "formathelpertext": "", "file": "brevmal"}]
 illustration: template-brev-nor.jpg
 position: 21
 ---
